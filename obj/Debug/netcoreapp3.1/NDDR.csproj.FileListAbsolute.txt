@@ -1,0 +1,166 @@
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\NDDR.exe
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\NDDR.deps.json
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\NDDR.runtimeconfig.json
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\NDDR.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\NDDR.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\NDDR.pdb
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\source\repos\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\NDDR\NDDR\obj\Debug\netcoreapp3.1\staticwebassets\NDDR.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\source\repos\NDDR\NDDR\obj\Debug\netcoreapp3.1\staticwebassets\NDDR.StaticWebAssets.xml
+C:\Users\Administrator\source\repos\NDDR\NDDR\obj\Debug\netcoreapp3.1\scopedcss\bundle\NDDR.styles.css
+C:\Users\Administrator\source\repos\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.csproj.CopyComplete
+C:\Users\Administrator\source\repos\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.pdb
+C:\Users\Administrator\source\repos\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Oracle.EntityFrameworkCore.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\source\repos\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\appsettings.json
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\NDDR.exe
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\NDDR.deps.json
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\NDDR.runtimeconfig.json
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\NDDR.runtimeconfig.dev.json
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\NDDR.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\NDDR.pdb
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Oracle.EntityFrameworkCore.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.csprojAssemblyReference.cache
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.AssemblyInfoInputs.cache
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.AssemblyInfo.cs
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.csproj.CoreCompileInputs.cache
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.MvcApplicationPartsAssemblyInfo.cs
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.MvcApplicationPartsAssemblyInfo.cache
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Debug\netcoreapp3.1\staticwebassets\NDDR.StaticWebAssets.Manifest.cache
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Debug\netcoreapp3.1\staticwebassets\NDDR.StaticWebAssets.xml
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Debug\netcoreapp3.1\scopedcss\bundle\NDDR.styles.css
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.RazorTargetAssemblyInfo.cache
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.csproj.CopyComplete
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.pdb
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Debug\netcoreapp3.1\NDDR.genruntimeconfig.cache
