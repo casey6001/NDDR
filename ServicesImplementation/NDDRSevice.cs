@@ -15,6 +15,12 @@ namespace NDDR
             _contextFactory.Execute("select * from centralized_plamsa  where national_id = '22501092401246'");
             return true;
         }
+        public ServiceResult Inquiry(ServiceInquiryKeys serviceInquiryKeys)
+        {
+            _contextFactory = new ContextFactory();
+            return  _contextFactory.ExecuteNDDRInquiry("select permenant_deferred,last_donation,last_plasma_donation,deferal_end_date from centralized_plamsa  where national_id = '" + serviceInquiryKeys .donorIdNumber + "'");
+           
+        }
 
      }
 }

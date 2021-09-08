@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/NDDR",
+      "launchUrl": "api/Auth/login",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -20,7 +20,7 @@
     "NDDR": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/NDDR",
+      "launchUrl": "api/Auth",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },

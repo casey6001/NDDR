@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace NDDR.Controllers
 {
-    [Route("api/[controller]")]
+    //[Route("api/[controller]")]
     public class NDDR : Controller
     {
         private readonly INDDRService _nDDRService;
@@ -16,8 +17,8 @@ namespace NDDR.Controllers
         {
             _nDDRService = nDDRService;
         }
-        
-        
+
+        //[Authorize]
         // GET: NDDR
         public string[] Index()
         {
@@ -25,73 +26,34 @@ namespace NDDR.Controllers
             return new string[] {"123" , "123"};
         }
 
-        // GET: NDDR/Details/5
-        //public ActionResult Details(int id)
-        //{
-        //    return View();
-        //}
+        [Route("api/v1/nddr/inquiry")]
+        [HttpPost]
+        [Authorize]
+        public ServiceResult Inquiry(ServiceInquiryKeys serviceInquiryKeys)
+        {
+            ServiceResult res = new ServiceResult();
+            res.timestamp = DateTime.UtcNow.ToString("yyyy-MM-ddTHH\\:mm\\:ss.fffffffzzz");
+            res.inquiryReferenceNumber = DataHelper.RandomString(12);
+            if (string.IsNullOrEmpty(serviceInquiryKeys.donorIdNumber))
+            {
+                res.inquiryResult = InquiryResult.ERR.ToString();
+                return res;
+            }
+            
+            try
+            {
+            res.inquiryResult =  _nDDRService.Inquiry(serviceInquiryKeys).inquiryResult;
 
-        //// GET: NDDR/Create
-        //public ActionResult Create()
-        //{
-        //    return View();
-        //}
+                return res;
+            }
+            catch (Exception)
+            {
+                res.inquiryResult = InquiryResult.ERR.ToString();
+                return res;
+            }
+          
 
-        //// POST: NDDR/Create
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public ActionResult Create(IFormCollection collection)
-        //{
-        //    try
-        //    {
-        //        return RedirectToAction(nameof(Index));
-        //    }
-        //    catch
-        //    {
-        //        return View();
-        //    }
-        //}
-
-        //// GET: NDDR/Edit/5
-        //public ActionResult Edit(int id)
-        //{
-        //    return View();
-        //}
-
-        //// POST: NDDR/Edit/5
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public ActionResult Edit(int id, IFormCollection collection)
-        //{
-        //    try
-        //    {
-        //        return RedirectToAction(nameof(Index));
-        //    }
-        //    catch
-        //    {
-        //        return View();
-        //    }
-        //}
-
-        //// GET: NDDR/Delete/5
-        //public ActionResult Delete(int id)
-        //{
-        //    return View();
-        //}
-
-        //// POST: NDDR/Delete/5
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public ActionResult Delete(int id, IFormCollection collection)
-        //{
-        //    try
-        //    {
-        //        return RedirectToAction(nameof(Index));
-        //    }
-        //    catch
-        //    {
-        //        return View();
-        //    }
-        //}
+        }
+      
     }
 }
