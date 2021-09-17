@@ -9,7 +9,7 @@ namespace NDDR
    public interface INDDRService
     {
        public bool Index();
-       public ServiceResult Inquiry(ServiceInquiryKeys serviceInquiryKeys);
+       public Task<ServiceResult> Inquiry(ServiceInquiryKeys serviceInquiryKeys);
 
     }
 }

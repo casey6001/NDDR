@@ -25,11 +25,10 @@ namespace NDDR.Controllers
             _nDDRService.Index();
             return new string[] {"123" , "123"};
         }
-
-        [Route("api/v1/nddr/inquiry")]
-        [HttpPost]
         [Authorize]
-        public ServiceResult Inquiry(ServiceInquiryKeys serviceInquiryKeys)
+        [HttpPost]
+        [Route("api/v1/nddr/inquiry")]
+        public async Task<ServiceResult> Inquiry([FromBody] ServiceInquiryKeys serviceInquiryKeys)
         {
             ServiceResult res = new ServiceResult();
             res.timestamp = DateTime.UtcNow.ToString("yyyy-MM-ddTHH\\:mm\\:ss.fffffffzzz");
@@ -37,19 +36,25 @@ namespace NDDR.Controllers
             if (string.IsNullOrEmpty(serviceInquiryKeys.donorIdNumber))
             {
                 res.inquiryResult = InquiryResult.ERR.ToString();
-                return res;
+                 return res;
+                
             }
             
             try
             {
-            res.inquiryResult =  _nDDRService.Inquiry(serviceInquiryKeys).inquiryResult;
+                var inquiryRes = await _nDDRService.Inquiry(serviceInquiryKeys);
+                
+            res.inquiryResult = inquiryRes.inquiryResult;
 
-                return res;
+                 return res;
+                
             }
             catch (Exception)
             {
                 res.inquiryResult = InquiryResult.ERR.ToString();
+                
                 return res;
+            
             }
           
 

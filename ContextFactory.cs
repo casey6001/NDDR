@@ -36,7 +36,7 @@ namespace NDDR
             }
         }
 
-            public ServiceResult ExecuteNDDRInquiry(string queryString)
+            public async Task<ServiceResult> ExecuteNDDRInquiry(string queryString)
             {
             var res = new ServiceResult();
             var inquiryResult = new InquiryDataDTO();
