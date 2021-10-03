@@ -12,14 +12,14 @@ namespace NDDR
         public bool Index()
         {
             _contextFactory = new ContextFactory();
-            _contextFactory.Execute("select * from centralized_plamsa  where national_id = '22501092401246'");
+            _contextFactory.Execute("select * from INTG.centralized_plamsa  where national_id = '22501092401246'");
             return true;
         }
         public async Task<ServiceResult>  Inquiry(ServiceInquiryKeys serviceInquiryKeys)
         {
             _contextFactory =  new ContextFactory();
 
-            var res = await _contextFactory.ExecuteNDDRInquiry("select permenant_deferred,last_donation,last_plasma_donation,deferal_end_date from centralized_plamsa  where national_id = '" + serviceInquiryKeys.donorIdNumber + "'");
+            var res = await _contextFactory.ExecuteNDDRInquiry("select permenant_deferred,last_donation,last_plasma_donation,deferal_end_date from INTG.centralized_plamsa  where national_id = '" + serviceInquiryKeys.donorIdNumber + "'");
             return res;   
            
         }

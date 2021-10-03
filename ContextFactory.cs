@@ -60,6 +60,10 @@ namespace NDDR
 
                         if (inquiryResult.PermenantDeferred.Equals("Yes"))
                             res.inquiryResult = InquiryResult.MAT.ToString();
+                        else if (inquiryResult.PermenantDeferred.Equals("No"))
+                        {
+
+                        }
                     }
                     else res.inquiryResult = InquiryResult.NOT.ToString();
                     return res;

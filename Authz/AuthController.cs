@@ -27,6 +27,7 @@ namespace NDDR
         {
             var result = await _service.Authenticate(login);
             if (result == null) return BadRequest();
+        
            // return Ok(new { TransferEncoding = result });
             var statusCode = HttpStatusCode.OK;
             return StatusCode((int)statusCode, result);

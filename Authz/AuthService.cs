@@ -27,13 +27,13 @@ namespace NDDR
         private ContextFactory _contextFactory;
 
         public AuthService(
-            
+
             IConfiguration configuration,
                       IHttpContextAccessor httpContext
         )
 
         {
-        
+
             _configuration = configuration;
             _httpContext = httpContext;
 
@@ -44,26 +44,26 @@ namespace NDDR
             _contextFactory = new ContextFactory();
             var user = _contextFactory.FIndUserInquiry(model);
 
-            
+
             if (user != null)
             {
                 // authentication successful so generate jwt and refresh tokens
-               return await GenerateJwtToken(user);
-           
+                return await GenerateJwtToken(user);
+
             }
 
             return null;
         }
 
-    
 
-    
+
+
 
         // helper methods
 
         private async Task<TokenDto> GenerateJwtToken(User user)
         {
-            
+
             var tokenHandler = new JwtSecurityTokenHandler();
             var key = Encoding.ASCII.GetBytes(_configuration["JWT:Secret"]);
 
@@ -76,7 +76,7 @@ namespace NDDR
                     new Claim(ClaimTypes.NameIdentifier, user.Id),
                     new Claim(ClaimTypes.Name, user.UserName),
                 }),
-                Expires = DateTime.UtcNow.AddDays(5),
+                Expires = DateTime.UtcNow.AddHours(1),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key),
                     SecurityAlgorithms.HmacSha256Signature)
             };
@@ -84,17 +84,17 @@ namespace NDDR
             return new TokenDto()
             {
                 access_token = tokenHandler.WriteToken(token),
-                expires_in = tokenDescriptor.Expires.ToString(),
+                expires_in = Convert.ToInt32(((DateTime)tokenDescriptor.Expires - DateTime.Now).TotalSeconds),
                 token_type = "Bearer",
-                scope      = "api.nddr"               
+                scope = "api.nddr"
 
             };
-            
+
         }
 
-       
 
-    
+
+
 
     }
 }

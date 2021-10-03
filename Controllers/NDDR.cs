@@ -31,7 +31,7 @@ namespace NDDR.Controllers
         public async Task<ServiceResult> Inquiry([FromBody] ServiceInquiryKeys serviceInquiryKeys)
         {
             ServiceResult res = new ServiceResult();
-            res.timestamp = DateTime.UtcNow.ToString("yyyy-MM-ddTHH\\:mm\\:ss.fffffffzzz");
+            res.timeStamp = DateTime.UtcNow.ToString("yyyy-MM-ddTHH\\:mm\\:ss.fffffffzzz");
             res.inquiryReferenceNumber = DataHelper.RandomString(12);
             if (string.IsNullOrEmpty(serviceInquiryKeys.donorIdNumber))
             {

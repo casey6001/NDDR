@@ -9,6 +9,6 @@ namespace NDDR
     {
         public string inquiryReferenceNumber { get; set; }
         public string inquiryResult { get; set; }
-        public string timestamp { get; set; }
+        public string timeStamp { get; set; }
     }
 }

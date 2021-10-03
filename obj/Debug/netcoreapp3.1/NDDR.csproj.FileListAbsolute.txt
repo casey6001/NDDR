@@ -180,3 +180,6 @@ D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcor
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
