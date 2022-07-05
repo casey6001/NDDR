@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace NDDR
+namespace NDDR.Helpers
 {
-    public class Config
+    public class DataAuditing
     {
+
 
     }
 }

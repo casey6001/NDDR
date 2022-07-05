@@ -3,7 +3,9 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace NDDR.Controllers
@@ -45,6 +47,7 @@ namespace NDDR.Controllers
                 var inquiryRes = await _nDDRService.Inquiry(serviceInquiryKeys);
                 
             res.inquiryResult = inquiryRes.inquiryResult;
+            res.deferralEndDate = inquiryRes.deferralEndDate;
 
                  return res;
                 
@@ -59,6 +62,38 @@ namespace NDDR.Controllers
           
 
         }
-      
+
+        [Authorize]
+        [HttpPost]
+        [Route("api/v1/cdcs/donations")]
+        public async Task<ServiceResult> uploadDonorsData()
+        {
+            ServiceResult res = new ServiceResult();
+          
+            try
+            {
+                using (StreamReader reader = new StreamReader(Request.Body, Encoding.UTF8))
+                {
+                    var y = await reader.ReadToEndAsync();
+                }
+                // var inquiryRes = await _nDDRService.Inquiry(serviceInquiryKeys);
+
+                //res.inquiryResult = inquiryRes.inquiryResult;
+                //res.deferralEndDate = inquiryRes.deferralEndDate;
+
+                return res;
+
+            }
+            catch (Exception)
+            {
+                res.inquiryResult = InquiryResult.ERR.ToString();
+
+                return res;
+
+            }
+
+
+        }
+
     }
 }

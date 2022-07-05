@@ -97,3 +97,6 @@ D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netc
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\NDDR.dll
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\NDDR.pdb
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\NDDR.genruntimeconfig.cache
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Release\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Release\netcoreapp3.1\System.Web.Http.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll

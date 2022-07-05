@@ -10,6 +10,8 @@ D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netc
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\PubTmp\Out\Azure.Identity.dll
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\PubTmp\Out\Azure.Security.KeyVault.Certificates.dll
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\PubTmp\Out\Azure.Security.KeyVault.Secrets.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\PubTmp\Out\System.Net.Http.Formatting.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.Http.dll
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
@@ -40,6 +42,7 @@ D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netc
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Win32.Registry.dll
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.Bson.dll
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\PubTmp\Out\Octokit.dll
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\PubTmp\Out\Oracle.EntityFrameworkCore.dll
 D:\1.Mohamed Gamal Work\Projects\MOH - eProgessa\NDDR\NDDR\NDDR\obj\Release\netcoreapp3.1\PubTmp\Out\Oracle.ManagedDataAccess.dll

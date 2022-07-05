@@ -5,17 +5,21 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Oracle.ManagedDataAccess.Client;
+using NDDR.Helpers;
+
 namespace NDDR
 {
     internal class ContextFactory 
     {
         private readonly IConfiguration _config;
         private readonly string _connectionstring;
+        private DeferralHandler _deferralHandler;
 
         public ContextFactory()
         {
             _config = ConfigProvider.Config;
             _connectionstring = _config.GetConnectionString("DefaultConnection");
+            _deferralHandler = new DeferralHandler();
         }
         public void Execute(string queryString)
         {
@@ -57,15 +61,9 @@ namespace NDDR
                             inquiryResult.LastPlasmaDonation = reader[2].ToString();
                             inquiryResult.DeferalEndDate = reader[3].ToString();
                         }
-
-                        if (inquiryResult.PermenantDeferred.Equals("Yes"))
-                            res.inquiryResult = InquiryResult.MAT.ToString();
-                        else if (inquiryResult.PermenantDeferred.Equals("No"))
-                        {
-
-                        }
+                        
                     }
-                    else res.inquiryResult = InquiryResult.NOT.ToString();
+                    res = HandleInquiryResult(inquiryResult);
                     return res;
                 }
                 }
@@ -115,6 +113,30 @@ namespace NDDR
                 command.Connection.Close();
             }
 
+        }
+
+        private ServiceResult HandleInquiryResult(InquiryDataDTO donorResult)
+        {
+            var res = new ServiceResult();
+            //Permanent Deferral
+            if (!string.IsNullOrEmpty(donorResult.PermenantDeferred) && donorResult.PermenantDeferred.ToUpper().Equals("YES") && string.IsNullOrEmpty(donorResult.LastBloodDonation))
+                res.inquiryResult = InquiryResult.MAT.ToString();
+            //Cross Donation
+            else if (!string.IsNullOrEmpty(donorResult.PermenantDeferred) && donorResult.PermenantDeferred.ToUpper().Equals("NO") && (!string.IsNullOrEmpty(donorResult.LastBloodDonation) || !string.IsNullOrEmpty(donorResult.LastPlasmaDonation)))
+            {
+                var deffDate = _deferralHandler.GetDefferalEndDate(donorResult);
+
+                res.inquiryResult = (deffDate > DateTime.Now) ? InquiryResult.CRO.ToString() : InquiryResult.NOT.ToString();
+
+                res.deferralEndDate = deffDate.ToString("yyyy-MM-dd");
+
+            }
+            //Permanent Deferral && Cross Donation
+            else if (!string.IsNullOrEmpty(donorResult.PermenantDeferred) && donorResult.PermenantDeferred.ToUpper().Equals("YES") && !string.IsNullOrEmpty(donorResult.LastBloodDonation))
+                res.inquiryResult = InquiryResult.DAC.ToString();
+            //Not Found
+            else res.inquiryResult = InquiryResult.NOT.ToString();
+            return res;
         }
     }
 
