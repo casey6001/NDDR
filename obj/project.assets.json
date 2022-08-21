@@ -7015,11 +7015,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1.Mohamed Gamal Work\\Projects\\MOH - eProgessa\\NDDR\\NDDR\\NDDR\\NDDR.csproj",
+      "projectUniqueName": "D:\\Handover\\NDDR\\NDDR\\NDDR.csproj",
       "projectName": "NDDR",
-      "projectPath": "D:\\1.Mohamed Gamal Work\\Projects\\MOH - eProgessa\\NDDR\\NDDR\\NDDR\\NDDR.csproj",
+      "projectPath": "D:\\Handover\\NDDR\\NDDR\\NDDR.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\1.Mohamed Gamal Work\\Projects\\MOH - eProgessa\\NDDR\\NDDR\\NDDR\\obj\\",
+      "outputPath": "D:\\Handover\\NDDR\\NDDR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
